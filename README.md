@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joy Pedze</h1>
 <h3 align="center">A passionate Java Developer from Zimbabwe</h3>
 
-- 👨‍💻 You can visit my portfolio website at [www.joypdev.com](www.joypdev.com)
+- 👨‍💻 You can visit my portfolio website at (www.joypdev.com)
 
 - 💬 Ask me about **Java, Spring, AWS, Angular, Flutter**
 
